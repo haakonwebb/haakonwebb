@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there and welcome to my page👋
+
+# My name is Haakon and I'm a 24 year old Computer Science student.
 
 - 🔭 I’m currently working on an Open Source Software project and a 
 - 🌱 I’m currently learning C++, Java, Python
